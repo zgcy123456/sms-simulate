@@ -36,3 +36,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+1. Pagination.svelte  作用是什么？即.svelte文件的作用是什么
+china doc
+https://github.com/cunzaizhuyi/sveltekit-docs-cn
