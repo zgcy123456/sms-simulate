@@ -40,3 +40,6 @@ You can preview the production build with `npm run preview`.
 1. Pagination.svelte  作用是什么？即.svelte文件的作用是什么
 china doc
 https://github.com/cunzaizhuyi/sveltekit-docs-cn
+
+sample
+https://github.com/sveltejs/realworld
